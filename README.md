@@ -1,1 +1,1 @@
-Working on lab 3 using name name range prcedent and ependent formulas
+Working on lab 3 using name name range precedent and ependent formulas
