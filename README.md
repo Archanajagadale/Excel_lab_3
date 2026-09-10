@@ -1,1 +1,3 @@
-Working on lab 3 using name range precedent and ependent formulas
+Working on lab 3 using demart data set
+Created named ranges.
+Verified formulas using Trace Precedents and Trace Dependents.
